@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @Benjamin-Emmerich
-- 👀 I’m interested in Python & Machine Learning
-- 🌱 I’m currently learning Machine Learning
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<h3>Hi, I'm Benjmain Emmerich </h3>
+        @Benjamin-Emmerich
+My interests are Python & Machine Learning
 
 <!---
 Benjamin-Emmerich/Benjamin-Emmerich is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
